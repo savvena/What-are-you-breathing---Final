@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DECO3200 A3 Assignment",
+"productVersion": "1.0",
+"dataUrl": "WAYB.data.unityweb",
+"asmCodeUrl": "WAYB.asm.code.unityweb",
+"asmMemoryUrl": "WAYB.asm.memory.unityweb",
+"asmFrameworkUrl": "WAYB.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
